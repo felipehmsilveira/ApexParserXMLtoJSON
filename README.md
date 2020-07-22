@@ -1,0 +1,2 @@
+- Para a classe de teste, envie um xml como string no único parâmetro do construtor da classe.
+- Também poderá verificar no construtor da classe se a chamada está vindo de um teste, dando true, alimenta a string 'xml' ali mesmo.
